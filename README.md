@@ -42,6 +42,6 @@ Learning how to make Pac-Man move and chomp back and forth across the screen was
 
 
 ## License Information
-[This Pac-Man project is licensed under the MIT License](https://github.com/wkbw/Pac-Manr#:~:text=Commit%20time-,LICENSE,-Initial%20commit).
+[This Pac-Man project is licensed under the MIT License](https://github.com/wkbw/Pac-Man/blob/main/LICENSE).
 
 
